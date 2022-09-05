@@ -1,0 +1,68 @@
+# Italian Radio Music Pack by Imperialism
+# 
+
+music_station = "Italy"
+
+music = {
+	song = "norma"
+}
+music = {
+	song = "il_pirata"
+}
+music = {
+	song = "calabrese"
+}
+music = {
+	song = "william_tell"
+}
+music = {
+	song = "barber_of_seville"
+}
+music = {
+	song = "tarantella_siciliana"
+}
+music = {
+	song = "tarantella_napoletana"
+}
+music = {
+	song = "Se_il_papa_e_andato_via"
+}
+music = {
+	song = "Marcia_delle_truppe_Sanfediste"
+}
+music = {
+	song = "La_Leopolda"
+}
+music = {
+	song = "Fratelli_d_Italia"
+}
+music = {
+	song = "Va_pensiero"
+}
+music = {
+	song = "Funiculi_Funicula"
+}
+music = {
+	song = "Gran_Marcia_Trionfale"
+}
+music = {
+	song = "Brigante_Se_More"
+}
+music = {
+	song = "E_a_Roma_a_Roma"
+}
+music = {
+	song = "Addio_mia_bella_addio"
+}
+music = {
+	song = "Camicia_Rossa"
+}
+music = {
+	song = "Aida_Marcia"
+}
+music = {
+	song = "Noi_vogliam_Dio_Vergine_Maria"
+}
+music = {
+	song = "rorate_caeli"
+}
